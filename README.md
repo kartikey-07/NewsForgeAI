@@ -112,13 +112,6 @@ Visit the app at: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 🌐 Optional: Share via ngrok
-
-```bash
-ngrok http 5000
-```
-
----
 
 ## 🎯 Want to Train Your Own Model?
 
