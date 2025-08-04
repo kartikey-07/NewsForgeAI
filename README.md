@@ -120,20 +120,6 @@ ngrok http 5000
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ✍️ Author
-
-**Kartikey Singh**  
-Built as a demonstration of responsible AI in journalism and ethics.
-
-
----
-
 ## 🎯 Want to Train Your Own Model?
 
 If you'd like to retrain the fake news detection model:
